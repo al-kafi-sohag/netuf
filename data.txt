@@ -1,0 +1,69 @@
+---------------------------------------------------
+Header
+---------------------------------------------------
+- Logo: Network Utility Force logo
+- Navigation Menu: about, services, technologies, expertise, contact
+- Company Name: Network Utility Force
+- Tagline: Network, Security, and Virtualization Experts
+
+---------------------------------------------------
+Solutions / Services
+---------------------------------------------------
+Description:
+We provide a variety of network architecture, design and engineering professional services, including:
+
+Services Offered:
+- Audit
+- Datacenter Design
+- GMPLS/MPLS
+- IPv6
+- Penetration Testing
+- Technical Writing
+- Architecture and Design
+- Deployment
+- Hardware Evals
+- Network Integration
+- Project Management
+- Traffic Engineering
+- Cloud Integration
+- DNS
+- High Performance Computing
+- Optimization
+- RFP (design or response)
+- Training
+- Configuration
+- DWDM
+- IPv4 monetization
+- Peering
+- Security
+- Wireless / WiFi
+
+Additional Services:
+- Expert Witness Services
+- M&A Evaluation Assistance
+
+Note:
+Please note, we do not sell hardware or software of any kind, as this allows us to provide unbiased advice to our clients to meet their unique needs.
+
+---------------------------------------------------
+Latest News
+---------------------------------------------------
+News Item 1:
+- Title: Notes from IETF99 - Day 2
+- Date: Monday July 17, 2017 at 10:14 AM U.S. Central Time
+- Excerpt: At the current IETF meeting this week, there are, as always, a lot of interesting presentations...
+- Link: read more
+
+News Item 2:
+- Title: Network Neutrality
+- Date: Wednesday July 12, 2017 at 9:00 AM U.S. Central Time
+- Excerpt: Network Neutrality is at the forefront of our minds in July. Learn more about our view.
+- Link: read more
+
+Additional Link: All News Items
+
+---------------------------------------------------
+Footer
+---------------------------------------------------
+- Logo: Network Utility Force logo
+- Copyright: Network Utility Force, LLC. 2011-2017. All rights reserved.
