@@ -4,29 +4,6 @@
         <footer class="main-footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <!-- Footer Header Start -->
-                        <div class="footer-header">
-                            <!-- Footer Logo Start -->
-                            <div class="footer-logo">
-                                <img src="images/footer-logo.svg" alt="">
-                            </div>
-                            <!-- Footer Logo End -->
-                            
-                            <!-- Footer Social Links Start -->
-                            <div class="footer-social-links">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Footer Social Links End -->
-                        </div>
-                        <!-- Footer Header End -->
-                    </div>
-
                     <div class="col-lg-4">
                         <!-- Footer Newsletter Form Start -->
                         <div class="footer-links footer-newsletter-form">

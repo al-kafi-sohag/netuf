@@ -5,7 +5,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">About us</h1>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">About Network Utility Force</h1>
                         <nav class="wow fadeInUp" data-wow-delay="0.2s">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">home</a></li>
@@ -30,7 +30,7 @@
                         <!-- About Image Box Start -->
                         <div class="about-image-box about-img-1">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/about-image-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/about-image-1.jpg" alt="Network Architecture Services">
                             </figure>
                         </div>
                         <!-- About Image Box End -->
@@ -39,13 +39,13 @@
                         <div class="about-image-box">
                             <div class="about-img-2">
                                 <figure class="image-anime reveal">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-image-2.jpg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-image-2.jpg" alt="Network Security Expertise">
                                 </figure>
                             </div>
 
                             <div class="about-img-3">
                                 <figure class="image-anime reveal">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-image-3.jpg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-image-3.jpg" alt="Virtualization Solutions">
                                 </figure>
                             </div>
                         </div>
@@ -53,8 +53,8 @@
 
                         <!-- Get Free Security Circle Start -->
                         <div class="get-free-security-circle">
-                            <a href="contact.html">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/get-free-security-circle.svg" alt="">
+                            <a href="<?php echo BASE_URL; ?>/contact">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/get-free-security-circle.svg" alt="Contact Network Utility Force">
                             </a>
                         </div>
                         <!-- Get Free Security Circle End -->
@@ -68,8 +68,8 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">about us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Your trusted partner in our <span>cyber security solutions</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s"> We provide reliable, cutting-edge cybersecurity solutions to protect your digital assets, ensuring safety and peace of mind.</p>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Your trusted partner in <span>network and security solutions</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Network Utility Force provides expert network architecture, security, and virtualization services. As vendor-neutral consultants, we deliver unbiased professional advice tailored to your organization's unique requirements.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -78,15 +78,15 @@
                             <!-- About Us Body Image Start -->
                             <div class="about-us-body-img">
                                 <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-body-img.png" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-body-img.png" alt="Expert Network Consulting">
                                 </figure>
                             </div>
                             <!-- About Us Body Image End -->
 
                             <!-- About Us Body Content Start -->
                             <div class="about-us-body-content">
-                                <h3>24/7 aecurity assistance</h3>
-                                <p>Real-time support for all cybersecurity concerns, including breach response, threat detection, guidance.</p>
+                                <h3>Enterprise-grade expertise</h3>
+                                <p>Specialized consulting in network architecture, security assessments, and advanced infrastructure optimization for organizations of all sizes.</p>
                             </div>
                             <!-- About Us Body Content End -->
                         </div>
@@ -97,9 +97,9 @@
                             <!-- About Footer List Start -->
                             <div class="about-footer-list">
                                 <ul>
-                                    <li>Threat Detection and Monitoring</li>
-                                    <li>Access Control Management</li>
-                                    <li>Security Awareness Training</li>
+                                    <li>Network Architecture & Design</li>
+                                    <li>Security Assessment & Penetration Testing</li>
+                                    <li>Cloud Integration & Virtualization</li>
                                 </ul>
                             </div>
                             <!-- About Footer List End -->
@@ -109,7 +109,7 @@
                                 <!-- About Content Button Start -->
                                 <div class="about-contact-btn">
                                     <div class="icon-box">
-                                        <img src="<?php echo BASE_URL; ?>/assets/images/icon-phone.svg" alt="">
+                                        <img src="<?php echo BASE_URL; ?>/assets/images/icon-phone.svg" alt="Contact Phone">
                                     </div>
 
                                     <div class="about-footer-btn-content">
@@ -143,7 +143,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">our approach</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Strengthening security, <span>your future</span></h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Building robust networks, <span>securing your business</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -156,11 +156,11 @@
                         <!-- Mission Vision Item Start -->
                         <div class="mission-vision-item wow fadeInUp">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-mission.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-mission.svg" alt="Our Mission">
                             </div>
                             <div class="mission-vision-content">
                                 <h3>our mission</h3>
-                                <p>To empower businesses with robust cybersecurity solutions, ensuring data integrity, privacy & resilience against.</p>
+                                <p>To provide unbiased, expert network and security consulting services that help organizations build resilient, efficient, and secure infrastructure tailored to their unique needs.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -168,11 +168,11 @@
                         <!-- Mission Vision Item Start -->
                         <div class="mission-vision-item wow fadeInUp" data-wow-delay="0.2s">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-vision.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-vision.svg" alt="Our Vision">
                             </div>
                             <div class="mission-vision-content">
                                 <h3>our vision</h3>
-                                <p>To empower businesses with robust cybersecurity solutions, ensuring data integrity, privacy & resilience against.</p>
+                                <p>To be the trusted advisor for organizations seeking to optimize their network architecture, secure their digital assets, and implement cutting-edge virtualization solutions.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -180,11 +180,11 @@
                         <!-- Mission Vision Item Start -->
                         <div class="mission-vision-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-value.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-our-value.svg" alt="Our Values">
                             </div>
                             <div class="mission-vision-content">
-                                <h3>our value</h3>
-                                <p>To empower businesses with robust cybersecurity solutions, ensuring data integrity, privacy & resilience against.</p>
+                                <h3>our values</h3>
+                                <p>Vendor neutrality, technical excellence, customer-centric solutions, and integrity in all our professional consulting engagements and recommendations.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -196,7 +196,7 @@
                     <!-- Our Approach Image Start -->
                     <div class="our-approach-image">
                         <figure class="image-anime reveal">
-                            <img src="<?php echo BASE_URL; ?>/assets/images/our-approach-image.jpg" alt="">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/our-approach-image.jpg" alt="Network Utility Force Approach">
                         </figure>
                     </div>
                     <!-- Our Approach Image End -->
@@ -215,19 +215,19 @@
                     <div class="what-we-do-image">
                         <div class="what-we-do-img-1">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-1.jpg" alt="Network Design Services">
                             </figure>
                         </div>
 
                         <div class="what-we-do-img-2">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-2.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-2.jpg" alt="Professional Network Consulting">
                             </figure>
                         </div>
 
                         <div class="company-experience-box what-we-do-circle">
-                            <h2><span class="counter">25</span>+</h2>
-                            <p>Years of experience </p>
+                            <h2><span class="counter">10</span>+</h2>
+                            <p>Years of experience</p>
                         </div>
                     </div>
                     <!-- What We Do Image End -->
@@ -238,18 +238,18 @@
                     <div class="what-we-do-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">what we do</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Protecting, preventing, <span>securing your future</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We provide comprehensive cybersecurity services to safeguard your digital assets, prevent potential threats, and ensure a secure environment.</p>
+                            <h3 class="wow fadeInUp">our solutions</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Expert network services <span>tailored to your needs</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">We provide a comprehensive range of professional network architecture, security, and virtualization services to optimize your infrastructure and enhance your digital presence.</p>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- What We Do Body Start -->
                         <div class="what-we-do-body wow fadeInUp" data-wow-delay="0.6s">
                             <ul>
-                                <li>Proactive Threat Detection and Incident Response</li>
-                                <li>Advanced Network Security and Intrusion Prevention</li>
-                                <li>Data Encryption and Secure Information Management</li>
+                                <li>Network Architecture, Design, and Engineering</li>
+                                <li>Security Assessment and Penetration Testing</li>
+                                <li>High Performance Computing and MPLS/GMPLS Solutions</li>
                             </ul>
                         </div>
                         <!-- What We Do Body End -->
@@ -259,10 +259,10 @@
                             <!-- What We Item Start -->
                             <div class="what-we-item">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-what-we-item-1.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-what-we-item-1.svg" alt="Datacenter Design">
                                 </div>
                                 <div class="what-we-item-content">
-                                    <h3>network and firewall security</h3>
+                                    <h3>datacenter design & optimization</h3>
                                 </div>
                             </div>
                             <!-- What We Item End -->
@@ -270,10 +270,10 @@
                             <!-- What We Item Start -->
                             <div class="what-we-item">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-what-we-item-2.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-what-we-item-2.svg" alt="IPv6 Implementation">
                                 </div>
                                 <div class="what-we-item-content">
-                                    <h3>data protection and encryption</h3>
+                                    <h3>IPv6 implementation & IPv4 monetization</h3>
                                 </div>
                             </div>
                             <!-- What We Item End -->
@@ -295,7 +295,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="<?php echo BASE_URL; ?>/assets/images/why-choose-image.jpg" alt="">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/why-choose-image.jpg" alt="Network Utility Force Advantages">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -307,7 +307,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title dark-section">
                             <h3 class="wow fadeInUp">why choose us</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Reliable solutions for cybersecurity excellence</h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Vendor-neutral expertise for optimal network solutions</h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -316,11 +316,11 @@
                             <!-- Why Choose Item Start -->
                             <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-1.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-1.svg" alt="Vendor Neutrality">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>expertise and experience</h3>
-                                    <p>A team of seasoned cybersecurity professionals with extensive industry knowledge.</p>
+                                    <h3>unbiased recommendations</h3>
+                                    <p>We don't sell hardware or software, allowing us to provide truly objective advice tailored to your specific requirements.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -328,11 +328,11 @@
                             <!-- Why Choose Item Start -->
                             <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-2.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-2.svg" alt="Technical Expertise">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>proactive security approach</h3>
-                                    <p>Focused on preventing threats before they impact your system, not just reacting after the fact.</p>
+                                    <h3>specialized technical expertise</h3>
+                                    <p>Our team brings deep knowledge in network architecture, security, and virtualization across diverse environments.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -340,11 +340,11 @@
                             <!-- Why Choose Item Start -->
                             <div class="why-choose-item wow fadeInUp" data-wow-delay="0.8s">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-3.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-3.svg" alt="Customized Solutions">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>tailored training programs</h3>
-                                    <p>Educating your team on security best practices to reduce human error and enhance vigilance.</p>
+                                    <h3>tailored solutions approach</h3>
+                                    <p>We develop customized strategies to address your unique networking challenges and business objectives.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -360,10 +360,10 @@
                         <!-- Why Choose Counter Item Start -->
                         <div class="why-choose-counter-item">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-1.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-1.svg" alt="Years of Experience">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">25</span>+</h3>
+                                <h3><span class="counter">10</span>+</h3>
                                 <p>Years Experience</p>
                             </div>
                         </div>
@@ -372,11 +372,11 @@
                         <!-- Why Choose Counter Item Start -->
                         <div class="why-choose-counter-item">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-2.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-2.svg" alt="Successful Projects">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">15</span>K</h3>
-                                <p>project complete</p>
+                                <h3><span class="counter">100</span>+</h3>
+                                <p>projects completed</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->
@@ -384,23 +384,11 @@
                         <!-- Why Choose Counter Item Start -->
                         <div class="why-choose-counter-item">
                             <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-3.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-3.svg" alt="Satisfied Clients">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">16</span>K</h3>
-                                <p>customer happy</p>
-                            </div>
-                        </div>
-                        <!-- Why Choose Counter Item End -->
-
-                        <!-- Why Choose Counter Item Start -->
-                        <div class="why-choose-counter-item">
-                            <div class="icon-box">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-4.svg" alt="">
-                            </div>
-                            <div class="why-choose-counter-content">
-                                <h3><span class="counter">120</span></h3>
-                                <p>winning awards</p>
+                                <h3><span class="counter">50</span>+</h3>
+                                <p>satisfied clients</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->
@@ -421,8 +409,8 @@
                     <div class="how-it-work-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">how it work</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Streamlined process, cyber <span>protection security</span></h2>
+                            <h3 class="wow fadeInUp">our process</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Professional consulting <span>methodology</span></h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -434,8 +422,8 @@
                                     <h3>01</h3>
                                 </div>
                                 <div class="work-step-content">
-                                    <h3>assessment & planning</h3>
-                                    <p>We start by understand your unique needs potential risks Through detailed assessment we identify vulnerabilities and develop.</p>
+                                    <h3>consultation & assessment</h3>
+                                    <p>We start by understanding your organization's network infrastructure needs, conducting a thorough assessment of your current environment and identifying optimization opportunities.</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -446,8 +434,8 @@
                                     <h3>02</h3>
                                 </div>
                                 <div class="work-step-content">
-                                    <h3>implementation</h3>
-                                    <p>We start by understand your unique needs potential risks Through detailed assessment we identify vulnerabilities and develop.</p>
+                                    <h3>solution design</h3>
+                                    <p>Our experts develop a customized architecture and design plan that addresses your specific requirements, incorporating best practices in network security and performance optimization.</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -458,8 +446,8 @@
                                     <h3>03</h3>
                                 </div>
                                 <div class="work-step-content">
-                                    <h3>ongoing support & maintenance</h3>
-                                    <p>We start by understand your unique needs potential risks Through detailed assessment we identify vulnerabilities and develop.</p>
+                                    <h3>implementation & knowledge transfer</h3>
+                                    <p>We provide expert guidance during implementation and ensure your team has the necessary knowledge to maintain and manage the solution effectively going forward.</p>
                                 </div>
                             </div>
                             <!-- How Work Item End -->
@@ -474,12 +462,12 @@
                     <div class="how-it-work-image">
                         <div class="how-it-work-img-1">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/how-it-work-image-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/how-it-work-image-1.jpg" alt="Network Infrastructure Planning">
                             </figure>
                         </div>
                         <div class="how-it-work-img-2">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/how-it-work-image-2.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/how-it-work-image-2.jpg" alt="Network Architecture Implementation">
                             </figure>
                         </div>
                     </div>
@@ -490,286 +478,6 @@
     </div>
     <!-- How It Work Section End -->
 
-    <!-- Our Team Section Start -->
-    <div class="our-team">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title dark-section">
-                        <h3 class="wow fadeInUp">Expert team</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our expert team member</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="<?php echo BASE_URL; ?>/team" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/team-1.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="<?php echo BASE_URL; ?>/team">michael johnson</a></h3>
-                            <p>security officer</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="<?php echo BASE_URL; ?>/team" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/team-2.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="<?php echo BASE_URL; ?>/team">sophia carter</a></h3>
-                            <p>cybersecurity analyst</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/team-3.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="<?php echo BASE_URL; ?>/team">michael brown</a></h3>
-                            <p>incident response</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="<?php echo BASE_URL; ?>/team" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/team-4.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">isabella moore</a></h3>
-                            <p>security awareness</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Team Section End -->
-
-    <!-- Our Testimonials Section Start -->
-    <div class="our-testimonials">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">testimonials</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our clients <span>are saying</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Testimonial Box Start -->
-                    <div class="testimonial-box parallaxie">
-                        <!-- Testimonial Video Button Start -->
-                        <div class="testimonial-video-button">
-                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
-                                <i class="fa-solid fa-play"></i>
-                            </a>
-                            <h3>Watch video</h3>
-                        </div>
-                        <!-- Testimonial Video Button End -->
-
-                        <!-- Testimonial Slide Box Start -->
-                        <div class="testimonial-slider-box">
-                            <!-- Testimonial Slide Start -->
-                            <div class="testimonial-slider">
-                                <div class="swiper">
-                                    <div class="swiper-wrapper" data-cursor-text="Drag">
-                                        <!-- Testimonial Slide Start -->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-item">
-                                                <div class="testimonial-header">
-                                                    <div class="testimonial-company-logo">
-                                                        <img src="<?php echo BASE_URL; ?>/assets/images/company-logo.svg" alt="">
-                                                    </div>
-                                                    <div class="testimonial-quote">
-                                                        <img src="<?php echo BASE_URL; ?>/assets/images/testimonial-quote.svg" alt="">
-                                                    </div>
-                                                </div>
-                                                <div class="testimonial-content">
-                                                    <p>"This cybersecurity service has been a game-changer for my business. The Basic Plan keeps my data secure, and I no longer worry about online threats. The setup was simple, and the team provided excellent support. Highly recommend!"</p>
-                                                    <p>"I love how easy it is to use this service. It's affordable and gives me the confidence to work online without fear of breaches. A must-have for anyone who values their online safety!"</p>
-                                                </div>
-                                                <div class="testimonial-body">
-                                                    <div class="author-image">
-                                                        <figure class="image-anime">
-                                                            <img src="<?php echo BASE_URL; ?>/assets/images/author-1.jpg" alt="">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="author-content">
-                                                        <h3>Alex J.</h3>
-                                                        <p>IT manager</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Testimonial Slide End -->
-
-                                        <!-- Testimonial Slide Start -->
-                                        <div class="swiper-slide">
-                                            <div class="testimonial-item">
-                                                <div class="testimonial-header">
-                                                    <div class="testimonial-company-logo">
-                                                        <img src="<?php echo BASE_URL; ?>/assets/images/company-logo.svg" alt="">
-                                                    </div>
-                                                    <div class="testimonial-quote">
-                                                        <img src="<?php echo BASE_URL; ?>/assets/images/testimonial-quote.svg" alt="">
-                                                    </div>
-                                                </div>
-                                                <div class="testimonial-content">
-                                                    <p>"This cybersecurity service has been a game-changer for my business. The Basic Plan keeps my data secure, and I no longer worry about online threats. The setup was simple, and the team provided excellent support. Highly recommend!"</p>
-                                                    <p>"I love how easy it is to use this service. It's affordable and gives me the confidence to work online without fear of breaches. A must-have for anyone who values their online safety!"</p>
-                                                </div>
-                                                <div class="testimonial-body">
-                                                    <div class="author-image">
-                                                        <figure class="image-anime">
-                                                            <img src="<?php echo BASE_URL; ?>/assets/images/author-2.jpg" alt="">
-                                                        </figure>
-                                                    </div>
-                                                    <div class="author-content">
-                                                        <h3>Sarah Mitchell</h3>
-                                                        <p>Cloud manager</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Testimonial Slide End -->
-                                    </div>
-                                    <div class="testimonial-btn">
-                                        <div class="testimonial-button-prev"></div>
-                                        <div class="testimonial-button-next"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Testimonial Slide End -->
-
-                            <!-- Testimnoial Contact Info Start -->
-                            <div class="testimonial-contact-info">
-                                <!-- Testimonial Contact Box Start -->
-                                <div class="testimonial-contact-box">
-                                    <div class="icon-box">
-                                        <img src="<?php echo BASE_URL; ?>/assets/images/icon-phone.svg" alt="">
-                                    </div>
-                                    <div class="testimonial-contact-content">
-                                        <p>If you any questions or need help contact with team. <span><a href="tel:+91123456789">+91-123 456 789</a></span></p>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Contact Box End -->
-
-                                <!-- Testimonial Contact Button Start -->
-                                <div class="testimonial-contact-btn">
-                                    <a href="<?php echo BASE_URL; ?>/contact" class="btn-default">contact us</a>
-                                </div>
-                                <!-- Testimonial Contact Button End -->
-                            </div>
-                            <!-- Testimnoial Contact Info End -->
-                        </div>
-                        <!-- Testimonial Slide Box End -->
-                    </div>
-                    <!-- Testimonials Box End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Testimonials Section End -->
-
     <!-- Our Benefit Section Start -->
     <div class="our-benefits">
         <div class="container-fluid">
@@ -779,19 +487,19 @@
                     <div class="our-benefit-image">
                         <div class="benefit-img-1">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-1.jpg" alt="Network Design Benefits">
                             </figure>
                         </div>
 
                         <div class="benefit-img-2">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-2.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-2.jpg" alt="Expert Network Consulting">
                             </figure>
                         </div>
 
                         <div class="contact-us-circle">
                             <a href="<?php echo BASE_URL; ?>/contact">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/contact-circle-image.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/contact-circle-image.svg" alt="Contact Network Utility Force">
                             </a>
                         </div>
                     </div>
@@ -803,9 +511,9 @@
                     <div class="our-benefit-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">our benefits</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Reliable solutions for cybersecurity excellence</h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Our comprehensive cybersecurity solutions provide robust protection, minimizing risks and giving you peace of mind knowing your data and systems are secure. We empower you with the tools and expertise to navigate today's.</p>
+                            <h3 class="wow fadeInUp">our advantages</h3>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Benefits of vendor-neutral network expertise</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Partner with Network Utility Force to gain access to specialized knowledge in network architecture, security, and virtualization. Our vendor-neutral approach ensures you receive solutions that genuinely meet your organization's specific needs and objectives.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -814,10 +522,10 @@
                             <!-- Benefit Body Item Start -->
                             <div class="benefit-body-item">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-1.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-1.svg" alt="Expert Consulting">
                                 </div>
                                 <div class="benefit-body-item-content">
-                                    <h3>proactive threat protection</h3>
+                                    <h3>specialized technical expertise</h3>
                                 </div>
                             </div>
                             <!-- Benefit Body Item End -->
@@ -825,10 +533,10 @@
                             <!-- Benefit Body Item Start -->
                             <div class="benefit-body-item">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-2.svg" alt="">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-2.svg" alt="Unbiased Recommendations">
                                 </div>
                                 <div class="benefit-body-item-content">
-                                    <h3>24/7 monitoring and help</h3>
+                                    <h3>objective, hardware-agnostic advice</h3>
                                 </div>
                             </div>
                             <!-- Benefit Body Item End -->
@@ -840,16 +548,16 @@
                             <!-- Benefit Footer List Start -->
                             <div class="benefit-footer-list">
                                 <ul>
-                                    <li>Enhanced Business Continuity</li>
-                                    <li>Scalable Solutions</li>
-                                    <li>Peace of Mind</li>
+                                    <li>Optimized Network Performance</li>
+                                    <li>Enhanced Security Posture</li>
+                                    <li>Infrastructure Modernization</li>
                                 </ul>
                             </div>
                             <!-- Our Benefit Footer List End -->
 
                             <!-- Benefit Footer Button Start -->
                             <div class="benefit-footer-btn">
-                                <a href="<?php echo BASE_URL; ?>/contact" class="btn-default">get started</a>
+                                <a href="<?php echo BASE_URL; ?>/contact" class="btn-default">contact us</a>
                             </div>
                         </div>
                         <!-- Benefit Footer Button End -->
@@ -860,97 +568,3 @@
         </div>
     </div>
     <!-- Our Benefit Section End -->
-
-    <!-- Our Faqs Section Start -->
-    <div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Faqs Content Start -->
-                    <div class="faq-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">faq</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Cybersecurity questions <span>answered clearly</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Faqs Image Start -->
-                        <div class="faq-image">
-                            <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/faq-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Faqs Image End -->
-                    </div>
-                    <!-- Faqs Content End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- FAQ Accordion Start -->
-                    <div class="faq-accordion" id="accordion">
-                        <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp">
-                            <h2 class="accordion-header" id="heading1">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                    What is cybersecurity?
-                                </button>
-                            </h2>
-                            <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Item End -->
-
-                        <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                            <h2 class="accordion-header" id="heading2">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    Why is cybersecurity important?
-                                </button>
-                            </h2>
-                            <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Item End -->
-
-                        <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                            <h2 class="accordion-header" id="heading3">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                    What are the most common cyber threats?
-                                </button>
-                            </h2>
-                            <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Item End -->
-
-                        <!-- FAQ Item Start -->
-                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                            <h2 class="accordion-header" id="heading4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                    How can I protect my business from cyber threats?
-                                </button>
-                            </h2>
-                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                <div class="accordion-body">
-                                    <p>Cybersecurity is critical for safeguarding sensitive information, ensuring business continuity, and preventing financial and reputational loss due to cyberattacks.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- FAQ Item End -->
-                    </div>
-                    <!-- FAQ Accordion End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Faqs Section End -->
