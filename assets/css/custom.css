@@ -454,7 +454,7 @@ body{
 /************************************/
 
 .topbar{
-	background: linear-gradient(90.15deg, var(--accent-color) 1.15%, var(--accent-secondary-color) 98.84%);
+	background: linear-gradient(90.15deg, var(--accent-secondary-color) 1.15%, var(--accent-color) 98.84%);
 	padding: 10px 0;
 }
 
@@ -624,7 +624,7 @@ header.main-header .header-sticky.active{
 	font-weight: 500;
 	line-height: 1.2em;
 	padding: 14px 20px !important;
-	color: var(--primary-color);
+	color: var(--white-color);
 	text-transform: capitalize;
 	transition: all 0.3s ease-in-out;
 }
@@ -1288,6 +1288,19 @@ header.main-header .header-sticky.active{
 
 .our-services{
 	background: var(--secondary-color);
+	padding: 100px 0 70px;
+}
+
+.introduction-section{
+	background: var(--white-color);
+	padding: 100px 0 70px;
+}
+
+.additional-services{
+	padding: 100px 0 70px;
+}
+
+.cta-section{
 	padding: 100px 0 70px;
 }
 
@@ -5424,6 +5437,18 @@ header.main-header .header-sticky.active{
 	}
 
 	.our-services{
+		padding: 50px 0 20px;
+	}
+
+	.introduction-section{
+		padding: 50px 0 20px;
+	}
+
+	.additional-services{
+		padding: 50px 0 20px;
+	}
+
+	.cta-section{
 		padding: 50px 0 20px;
 	}
 
