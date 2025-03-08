@@ -9,7 +9,7 @@
                         <nav class="wow fadeInUp" data-wow-delay="0.2s">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">services</li>
+                                <li class="breadcrumb-item active" aria-current="page"> / services</li>
                             </ol>
                         </nav>
                     </div>
