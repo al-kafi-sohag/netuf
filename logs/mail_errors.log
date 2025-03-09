@@ -1,0 +1,4 @@
+Mail sending failed on 2025-03-09 20:24:39 for aksohag16@gmail.com
+Mail sending failed on 2025-03-09 20:25:21 for aksohag16@gmail.com
+Mail sending failed on 2025-03-09 20:28:46 for jysiqajypa@mailinator.com
+[2025-03-09 20:46:17] Mail Error: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()

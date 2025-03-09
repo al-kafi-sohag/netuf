@@ -159,8 +159,7 @@
 
 	/* Parallaxie js */
 	/* var $parallaxie = $('.parallaxie');
-	if($parallaxie.length && ($window.width() > 991))
-	{
+	if($parallaxie.length && ($window.width() > 991)) {
 		if ($window.width() > 768) {
 			$parallaxie.parallaxie({
 				speed: 0.55,
@@ -227,8 +226,8 @@
 		} else {
 			var msgClasses = "h4 text-danger";
 		}
-		$("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
 	}
+
 	/* Contact form validation end */
 
 	/* Animated Wow Js */	
@@ -264,6 +263,7 @@
 			});
 		}
 	}
+
 	/* Service Item Active End  */
 
 	/* Project Item Active Start */
@@ -285,6 +285,6 @@
 			});
 		}
 	}
+
 	/* Project Item Active End  */
-	
 })(jQuery);

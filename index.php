@@ -1,4 +1,6 @@
 <?php
+
+require __DIR__ . '/vendor/autoload.php';
 // Include common header
 include 'inc/header.php';
 
