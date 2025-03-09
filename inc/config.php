@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-// define("BASE_URL", "https://rosybrown-seal-470751.hostingersite.com");
-define("BASE_URL", "http://localhost/netuf/netuf");
+define("BASE_URL", "https://rosybrown-seal-470751.hostingersite.com");
+// define("BASE_URL", "http://localhost/netuf/netuf");
 
 // Admin/Receiver Email Configuration
 define("ADMIN_EMAIL", "admin@networkutilityforce.com");
