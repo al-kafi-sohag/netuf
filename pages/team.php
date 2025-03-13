@@ -64,7 +64,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3><a href="<?php echo BASE_URL; ?>/team">Chris Woodfield</a></h3>
-                            <p>cybersecurity analyst</p>
+                            <p>Senior Automation Architect</p>
                         </div>
                         <!-- Team Content End -->
                     </div>
