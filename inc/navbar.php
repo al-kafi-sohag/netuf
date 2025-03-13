@@ -2,7 +2,7 @@
 <div class="preloader">
 	<div class="loading-container">
 		<div class="loading"></div>
-		<div id="loading-icon"><img src="<?php echo BASE_URL; ?>/assets/images/logo-netuf.png" alt="Network Utility Force Loading"></div>
+		<div id="loading-icon"><img src="<?php echo BASE_URL; ?>/assets/images/preloader.png" alt="Network Utility Force Loading"></div>
 	</div>
 </div>
 <!-- Preloader End -->
