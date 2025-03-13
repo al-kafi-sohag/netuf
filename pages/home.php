@@ -369,7 +369,7 @@
                         <!-- Feature Image Start -->
                         <div class="feature-image">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/server-2.webp" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/server-3.jpg" alt="">
                             </figure>
                         </div>
                         <!-- Feature Image End -->

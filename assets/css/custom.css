@@ -1451,7 +1451,7 @@ header.main-header .header-sticky.active{
 
 .feature-image img{
 	width: 100%;
-	/* aspect-ratio: 1 / 0.62; */
+	aspect-ratio: 1 / 0.62;
 	object-fit: cover;
 	border-radius: 30px;
 }
@@ -5478,7 +5478,7 @@ header.main-header .header-sticky.active{
 	}
 
 	.feature-image img{
-		/* aspect-ratio: 1 / 0.48; */
+		aspect-ratio: 1 / 0.48;
 		border-radius: 20px;
 	}
 
@@ -6808,7 +6808,7 @@ header.main-header .header-sticky.active{
 	}
 
 	.feature-image img{
-        /* aspect-ratio: 1 / 0.6; */
+        aspect-ratio: 1 / 0.6;
     }
 
 	.company-experience-info{

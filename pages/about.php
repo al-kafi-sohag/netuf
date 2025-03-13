@@ -30,7 +30,7 @@
                         <!-- About Image Box Start -->
                         <div class="about-image-box about-img-1">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/about-image-1.jpg" alt="Network Architecture Services">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/server-7.webp" alt="Network Architecture Services">
                             </figure>
                         </div>
                         <!-- About Image Box End -->
@@ -196,7 +196,7 @@
                     <!-- Our Approach Image Start -->
                     <div class="our-approach-image">
                         <figure class="image-anime reveal">
-                            <img src="<?php echo BASE_URL; ?>/assets/images/our-approach-image.jpg" alt="Network Utility Force Approach">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/server-5.webp" alt="Network Utility Force Approach">
                         </figure>
                     </div>
                     <!-- Our Approach Image End -->
@@ -462,7 +462,7 @@
                     <div class="how-it-work-image">
                         <div class="how-it-work-img-1">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/how-it-work-image-1.jpg" alt="Network Infrastructure Planning">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/server-3.webp" alt="Network Infrastructure Planning">
                             </figure>
                         </div>
                         <div class="how-it-work-img-2">
