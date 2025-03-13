@@ -5297,7 +5297,7 @@ header.main-header .header-sticky.active{
 
 	.section-title h3::before{
 		width: 18px;
-		height: 18px;
+		height: 10px;
 	}
 
 	.section-title h1{
