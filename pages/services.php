@@ -270,7 +270,7 @@
                                 <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-2.svg" alt="Completed Projects">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">250</span>+</h3>
+                                <h3><span class="counter">50</span>+</h3>
                                 <p>Projects Completed</p>
                             </div>
                         </div>
@@ -282,7 +282,7 @@
                                 <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-3.svg" alt="Satisfied Clients">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">150</span>+</h3>
+                                <h3><span class="counter">100</span>+</h3>
                                 <p>Satisfied Clients</p>
                             </div>
                         </div>
@@ -295,7 +295,7 @@
                             </div>
                             <div class="why-choose-counter-content">
                                 <h3><span class="counter">20</span>+</h3>
-                                <p>Certified Professionals</p>
+                                <p>Experienced Professionals</p>
                             </div>
                         </div>
                         <!-- Why Choose Counter Item End -->

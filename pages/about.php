@@ -54,7 +54,7 @@
                         <!-- Get Free Security Circle Start -->
                         <div class="get-free-security-circle">
                             <a href="<?php echo BASE_URL; ?>/contact">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/get-free-security-circle.svg" alt="Contact Network Utility Force">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/contact-circle-image.svg" alt="Contact Network Utility Force">
                             </a>
                         </div>
                         <!-- Get Free Security Circle End -->
@@ -113,7 +113,7 @@
                                     </div>
 
                                     <div class="about-footer-btn-content">
-                                        <h3><a href="tel:+91123456789">+91 123 456 789</a></h3>
+                                        <h3><a href="tel:+91123456789">+1-404-635-6667</a></h3>
                                     </div>
                                 </div>
                                 <!-- About Content Button End -->
@@ -363,7 +363,7 @@
                                 <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-1.svg" alt="Years of Experience">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">10</span>+</h3>
+                                <h3><span class="counter">35</span>+</h3>
                                 <p>Years Experience</p>
                             </div>
                         </div>
