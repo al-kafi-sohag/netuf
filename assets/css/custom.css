@@ -392,12 +392,12 @@ body{
     top: 50%;
     left: 0;
     transform: translateY(-50%);
-    background: url('../images/nuf.png');
+    background: url('../images/preloader.png');
     background-repeat: no-repeat;
     background-position: left center;
     background-size: cover;
     width: 20px;
-    height: 20px;
+    height: 10px;
 }
 
 .section-title h1{
