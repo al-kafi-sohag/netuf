@@ -145,19 +145,17 @@
     <!-- Page Contact Us End -->
 
     <!-- Google Map Section Start -->
-    <div class="google-map">
+    <!-- <div class="google-map">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- Google Map IFrame Start -->
                     <div class="google-map-iframe">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111543.35392025818!2d-98.59246755!3d29.48928845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58af04d00eaf%3A0x856e13b10a016bc!2sSan%20Antonio%2C%20TX!5e0!3m2!1sen!2sus!4v1703158537552!5m2!1sen!2sus" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
-                    <!-- Google Map IFrame End -->
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Google Map Section End -->
 
     <!-- SweetAlert2 CSS -->
