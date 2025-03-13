@@ -22,12 +22,12 @@
                             <!-- Hero Button End -->
 
                             <!-- Video Play Button Start -->
-                            <div class="video-play-button">
+                            <!-- <div class="video-play-button">
                                 <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
                                     <i class="fa-solid fa-play"></i>
                                 </a>
                                 <h3>Play video</h3>
-                            </div>
+                            </div> -->
                             <!-- Video Play Button End -->
                         </div>
                         <!-- Hero Content Body End -->      
@@ -44,55 +44,38 @@
                             <!-- Hero List End -->
 
                             <!-- Hero Client Box Start -->
-                            <div class="hero-client-box">
-                                <!-- Our Client Image Start -->
+                            <!-- <div class="hero-client-box">
                                 <div class="our-client-images">
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-1.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
 
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-2.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
 
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-3.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
-
-                                    <!-- Client Image Start -->
                                     <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-4.jpg" alt="">
                                         </figure>
                                     </div>
-                                    <!-- Client Image End -->
-
-                                    <!-- Add More Client Image Start -->
                                     <div class="client-image client-counter">
                                         <h3><span class="counter">25</span>k</h3>
                                     </div>
-                                    <!-- Add More Client Image End -->
                                 </div>
-                                <!-- Our Client Image End -->
-
-                                <!-- Our Client Content Start -->
                                 <div class="our-client-content">
                                     <p>Our <span class="counter">20</span>k+ Satisfied Clients Worldwide</p>
                                 </div>
-                                <!-- Our Client Content End -->
-                            </div>
+                            </div> -->
                             <!-- Hero Client Box End -->
                         </div>
                         <!-- Hero Content Footer End -->
@@ -114,7 +97,7 @@
                         <!-- About Image Box Start -->
                         <div class="about-image-box about-img-1">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/about-image-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/server-1.jpg" alt="">
                             </figure>
                         </div>
                         <!-- About Image Box End -->
@@ -138,7 +121,7 @@
                         <!-- Get Free Security Circle Start -->
                         <div class="get-free-security-circle">
                             <a href="<?php echo BASE_URL; ?>/contact">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/get-free-security-circle.svg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/contact-circle-image.svg" alt="">
                             </a>
                         </div>
                         <!-- Get Free Security Circle End -->
@@ -181,6 +164,7 @@
                             <!-- About Footer List Start -->
                             <div class="about-footer-list">
                                 <ul>
+                                    <li>Get Free consultations</li>
                                     <li>Network Architecture & Design</li>
                                     <li>Security & Optimization Solutions</li>
                                 </ul>
@@ -196,7 +180,7 @@
                                     </div>
                                     
                                     <div class="about-footer-btn-content">
-                                        <h3><a href="tel:+91123456789">+91 123 456 789</a></h3>
+                                        <h3><a href="tel:+14046356667">+1-404-635-6667.</a></h3>
                                     </div>
                                 </div>
                                 <!-- About Content Button End -->
@@ -356,7 +340,7 @@
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="<?php echo BASE_URL; ?>/services">Professional Consulting</a></h3>
+                                <h3><a href="<?php echo BASE_URL; ?>/services">Professional service</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="<?php echo BASE_URL; ?>/services">
@@ -385,7 +369,7 @@
                         <!-- Feature Image Start -->
                         <div class="feature-image">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/feature-image-1.jpg" alt="">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/server-2.webp" alt="">
                             </figure>
                         </div>
                         <!-- Feature Image End -->
@@ -404,7 +388,7 @@
                             <div class="company-experience-box">
                                 <!-- Company Experience Content Start -->
                                 <div class="company-experience-content">
-                                    <h2><span class="counter">25</span>+</h2>
+                                    <h2><span class="counter">35</span>+</h2>
                                     <p>Years of experience in network engineering</p>
                                 </div>
                                 <!-- Company Experience Content End -->
@@ -412,33 +396,33 @@
                                 <!-- Company Client Image Start -->
                                 <div class="our-client-images company-client-images">
                                     <!-- Client Image Start -->
-                                    <div class="client-image">
+                                    <!-- <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-1.jpg" alt="">
                                         </figure>
-                                    </div>
+                                    </div> -->
                                     <!-- Client Image End -->
 
                                     <!-- Client Image Start -->
-                                    <div class="client-image">
+                                    <!-- <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-2.jpg" alt="">
                                         </figure>
-                                    </div>
+                                    </div> -->
                                     <!-- Client Image End -->
 
                                     <!-- Client Image Start -->
-                                    <div class="client-image">
+                                    <!-- <div class="client-image">
                                         <figure class="image-anime">
                                             <img src="<?php echo BASE_URL; ?>/assets/images/client-image-3.jpg" alt="">
                                         </figure>
-                                    </div>
+                                    </div> -->
                                     <!-- Client Image End -->
 
                                     <!-- Add More Client Image Start -->
-                                    <div class="client-image client-counter">
+                                    <!-- <div class="client-image client-counter">
                                         <h3><span class="counter">25</span>k</h3>
-                                    </div>
+                                    </div> -->
                                     <!-- Add More Client Image End -->
                                 </div>
                                 <!-- Company Client Image End -->

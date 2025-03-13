@@ -5,7 +5,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">Network Consulting Services</h1>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">Comprehensive network solutions for service providers and enterprise</h1>
                         <nav class="wow fadeInUp" data-wow-delay="0.2s">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>">home</a></li>
@@ -28,7 +28,7 @@
                     <div class="section-title text-center">
                         <h3 class="wow fadeInUp">vendor-neutral expertise</h3>
                         <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Network Architecture, Security & <span>Virtualization</span> Services</h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.4s">We provide a variety of network architecture, design, and engineering professional services. As an independent consulting firm, we don't sell hardware or software of any kind, allowing us to offer unbiased advice tailored to your organization's unique requirements.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.4s">We provide a variety of network architecture, design, and engineering professional services. As an independent service firm, we don't sell hardware or software of any kind, allowing us to offer unbiased advice tailored to your organization's unique requirements.</p>
                     </div>
                 </div>
             </div>
@@ -90,11 +90,11 @@
                     <!-- Service Item Start -->
                     <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
                         <div class="icon-box">
-                            <img src="<?php echo BASE_URL; ?>/assets/images/icon-service-3.svg" alt="MPLS/GMPLS Solutions">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/icon-service-3.svg" alt="Network Automation Solutions">
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">
-                                <h3><a href="<?php echo BASE_URL; ?>/services">MPLS/GMPLS Solutions</a></h3>
+                                <h3><a href="<?php echo BASE_URL; ?>/services">Network Automation</a></h3>
                             </div>
                             <div class="service-btn">
                                 <a href="<?php echo BASE_URL; ?>/contact">
@@ -103,7 +103,7 @@
                             </div>
                         </div>
                         <div class="service-content">
-                            <p>Specialized consulting for implementing and optimizing Multiprotocol Label Switching networks for enhanced performance, scalability, and traffic engineering.</p>
+                            <p>Specialized service for implementing and optimizing Multiprotocol Label Switching networks for enhanced performance, scalability, and traffic engineering.</p>
                         </div>
                     </div>
                     <!-- Service Item End -->
@@ -190,7 +190,7 @@
                     <!-- Why Choose Image Start -->
                     <div class="why-choose-image">
                         <figure class="image-anime reveal">
-                            <img src="<?php echo BASE_URL; ?>/assets/images/why-choose-image.jpg" alt="Network Utility Force Professional Consulting">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/why-choose-image.jpg" alt="Network Utility Force Professional service">
                         </figure>
                     </div>
                     <!-- Why Choose Image End -->
@@ -258,7 +258,7 @@
                                 <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-1.svg" alt="Years of Experience">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">12</span>+</h3>
+                                <h3><span class="counter">30</span>+</h3>
                                 <p>Years Experience</p>
                             </div>
                         </div>

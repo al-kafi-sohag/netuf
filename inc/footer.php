@@ -48,7 +48,7 @@
                         <div class="footer-links">
                             <h3>Expertise</h3>
                             <ul>
-                                <li><a href="<?php echo BASE_URL; ?>/services">MPLS/GMPLS Solutions</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>/services">Network Automation</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>/services">Cloud Integration</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>/services">Technical Writing</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>/services">RFP Assistance</a></li>
@@ -62,8 +62,9 @@
                         <div class="footer-links">
                             <h3>Contact</h3>
                             <ul>
-                                <li><a href="tel:+1234567890">+1 (234) 567-890</a></li>
-                                <li><a href="mailto:info@netuf.com">info@netuf.com</a></li>
+                                <li><a href="tel:+14046356667">+1-404-635-6667</a></li>
+                                <li><a href="mailto:info@netuf.net">info@netuf.net</a></li>
+                                <li><a href="mailto:sales@netuf.net">sales@netuf.net</a></li>
                                 <li>Network Utility Force, LLC.</li>
                             </ul>
                         </div>
@@ -79,7 +80,7 @@
                         <div class="col-md-12">
                             <!-- Footer Copyright Text Start -->
                             <div class="footer-copyright-text">
-                                <p>Copyright &copy; 2011-<?php echo date('Y'); ?> Network Utility Force, LLC. All Rights Reserved.</p>
+                                <p>Copyright &copy; <?php echo date('Y'); ?> Network Utility Force, LLC. All Rights Reserved.</p>
                             </div>
                             <!-- Footer Copyright Text End -->
                         </div>

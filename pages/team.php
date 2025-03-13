@@ -40,7 +40,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3><a href="<?php echo BASE_URL; ?>/team">michael johnson</a></h3>
-                            <p>security officer</p>
+                            <p>Chief Network Architect and CEO</p>
                         </div>
                         <!-- Team Content End -->
                     </div>

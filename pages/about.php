@@ -78,7 +78,7 @@
                             <!-- About Us Body Image Start -->
                             <div class="about-us-body-img">
                                 <figure class="image-anime">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-body-img.png" alt="Expert Network Consulting">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/about-body-img.png" alt="Expert Network service">
                                 </figure>
                             </div>
                             <!-- About Us Body Image End -->
@@ -86,7 +86,7 @@
                             <!-- About Us Body Content Start -->
                             <div class="about-us-body-content">
                                 <h3>Enterprise-grade expertise</h3>
-                                <p>Specialized consulting in network architecture, security assessments, and advanced infrastructure optimization for organizations of all sizes.</p>
+                                <p>Specialized service in network architecture, security assessments, and advanced infrastructure optimization for organizations of all sizes.</p>
                             </div>
                             <!-- About Us Body Content End -->
                         </div>
@@ -160,7 +160,7 @@
                             </div>
                             <div class="mission-vision-content">
                                 <h3>our mission</h3>
-                                <p>To provide unbiased, expert network and security consulting services that help organizations build resilient, efficient, and secure infrastructure tailored to their unique needs.</p>
+                                <p>To provide unbiased, expert network and security professional services that help organizations build resilient, efficient, and secure infrastructure tailored to their unique needs.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -184,7 +184,7 @@
                             </div>
                             <div class="mission-vision-content">
                                 <h3>our values</h3>
-                                <p>Vendor neutrality, technical excellence, customer-centric solutions, and integrity in all our professional consulting engagements and recommendations.</p>
+                                <p>Vendor neutrality, technical excellence, customer-centric solutions, and integrity in all our professional service engagements and recommendations.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -221,12 +221,12 @@
 
                         <div class="what-we-do-img-2">
                             <figure class="image-anime reveal">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-2.jpg" alt="Professional Network Consulting">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/what-we-do-img-2.jpg" alt="Professional Network service">
                             </figure>
                         </div>
 
                         <div class="company-experience-box what-we-do-circle">
-                            <h2><span class="counter">10</span>+</h2>
+                            <h2><span class="counter">35</span>+</h2>
                             <p>Years of experience</p>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
                             <ul>
                                 <li>Network Architecture, Design, and Engineering</li>
                                 <li>Security Assessment and Penetration Testing</li>
-                                <li>High Performance Computing and MPLS/GMPLS Solutions</li>
+                                <li>High Performance Computing and Network Automation</li>
                             </ul>
                         </div>
                         <!-- What We Do Body End -->
@@ -410,7 +410,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">our process</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Professional consulting <span>methodology</span></h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Professional service <span>methodology</span></h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -493,7 +493,7 @@
 
                         <div class="benefit-img-2">
                             <figure class="image-anime">
-                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-2.jpg" alt="Expert Network Consulting">
+                                <img src="<?php echo BASE_URL; ?>/assets/images/benefit-image-2.jpg" alt="Expert Network service">
                             </figure>
                         </div>
 
@@ -522,7 +522,7 @@
                             <!-- Benefit Body Item Start -->
                             <div class="benefit-body-item">
                                 <div class="icon-box">
-                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-1.svg" alt="Expert Consulting">
+                                    <img src="<?php echo BASE_URL; ?>/assets/images/icon-benefit-body-1.svg" alt="Expert service">
                                 </div>
                                 <div class="benefit-body-item-content">
                                     <h3>specialized technical expertise</h3>

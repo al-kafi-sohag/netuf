@@ -13,7 +13,7 @@
         <div class="row align-items-center">
             <div class="col-md-7">
                 <div class="topbar-info-text">
-                    <p>Expert network architecture and security consulting <a href="<?php echo BASE_URL; ?>/contact">Contact us</a></p>
+                    <p>Expert network architecture and security service <a href="<?php echo BASE_URL; ?>/contact">Contact us</a></p>
                 </div>
             </div>
             
