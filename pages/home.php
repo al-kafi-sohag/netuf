@@ -244,7 +244,7 @@
                     <!-- Service Item Start -->
                     <div class="service-item active wow fadeInUp" data-wow-delay="0.2s">
                         <div class="icon-box">
-                            <img src="images/icon-service-2.svg" alt="">
+                            <img src="<?php echo BASE_URL; ?>/assets/images/icon-service-2.svg" alt="">
                         </div>
                         <div class="service-title-box">
                             <div class="service-title">

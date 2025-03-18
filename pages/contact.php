@@ -79,7 +79,7 @@
                         </div>
                         <!-- Contact Info List End -->
 
-                        <div class="contact-us-form">
+                        <div class="contact-us-form" style="display: none;">
                             <!-- Section Title Start -->
                             <div class="section-title dark-section wow fadeInUp">
                                 <h2 class="wow fadeInUp" data-cursor="-opaque">Discuss your network and security requirements</h2>

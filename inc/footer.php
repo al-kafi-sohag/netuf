@@ -113,7 +113,7 @@
         <script src="<?php echo BASE_URL; ?>/assets/js/parallaxie.js"></script>
         <!-- MagicCursor js file -->
         <script src="<?php echo BASE_URL; ?>/assets/js/gsap.min.js"></script>
-        <script src="<?php echo BASE_URL; ?>/assets/js/magiccursor.js"></script>
+        <!-- <script src="<?php echo BASE_URL; ?>/assets/js/magiccursor.js"></script> -->
         <!-- Text Effect js file -->
         <script src="<?php echo BASE_URL; ?>/assets/js/SplitText.js"></script>
         <script src="<?php echo BASE_URL; ?>/assets/js/ScrollTrigger.min.js"></script>

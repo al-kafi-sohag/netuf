@@ -75,7 +75,7 @@ function log_submission($data) {
         $data['message']
     );
     
-    $logFile = __DIR__ . '/../logs/submissions.log';
+    $logFile = __DIR__ . '/../mail-logs/submissions.log';
     file_put_contents($logFile, $log, FILE_APPEND | LOCK_EX);
 }
 
@@ -126,7 +126,7 @@ function send_email($data) {
     } catch (Exception $e) {
         // Log errors if mail fails
         $errorMsg = $e->getMessage();
-        $logFile = __DIR__ . '/../logs/mail_errors.log';
+        $logFile = __DIR__ . '/../mail-logs/mail_errors.log';
         file_put_contents(
             $logFile, 
             "[" . date('Y-m-d H:i:s') . "] PHPMailer Error: " . $errorMsg . "\n", 
