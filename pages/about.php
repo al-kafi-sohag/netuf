@@ -226,7 +226,7 @@
                         </div>
 
                         <div class="company-experience-box what-we-do-circle">
-                            <h2><span class="counter">35</span>+</h2>
+                            <h2><span class="counter">30</span>+</h2>
                             <p>Years of experience</p>
                         </div>
                     </div>
@@ -363,7 +363,7 @@
                                 <img src="<?php echo BASE_URL; ?>/assets/images/icon-why-choose-counter-1.svg" alt="Years of Experience">
                             </div>
                             <div class="why-choose-counter-content">
-                                <h3><span class="counter">35</span>+</h3>
+                                <h3><span class="counter">30</span>+</h3>
                                 <p>Years Experience</p>
                             </div>
                         </div>

@@ -388,7 +388,7 @@
                             <div class="company-experience-box">
                                 <!-- Company Experience Content Start -->
                                 <div class="company-experience-content">
-                                    <h2><span class="counter">35</span>+</h2>
+                                    <h2><span class="counter">30</span>+</h2>
                                     <p>Years of experience in network engineering</p>
                                 </div>
                                 <!-- Company Experience Content End -->
